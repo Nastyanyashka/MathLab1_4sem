@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLab1_4sem", "MathLab1_4sem\MathLab1_4sem.csproj", "{6F11A30F-64CD-4860-A496-604523686153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F11A30F-64CD-4860-A496-604523686153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F11A30F-64CD-4860-A496-604523686153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F11A30F-64CD-4860-A496-604523686153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F11A30F-64CD-4860-A496-604523686153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DBCFF07-ED82-4797-82A2-1E8098689558}
+	EndGlobalSection
+EndGlobal
