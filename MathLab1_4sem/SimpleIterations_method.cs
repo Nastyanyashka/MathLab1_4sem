@@ -53,5 +53,9 @@ namespace MathLab1_4sem
             float c = (float)1 / 3;
             return (float)Math.Sqrt(a+b+c);
         }
+        float Phi3(float x)
+        {
+            return 2* (float)Math.Pow(x,4) -24 * (float)Math.Pow(x,2)+8;
+        }
     }
 }
